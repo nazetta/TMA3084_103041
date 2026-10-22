@@ -1,4 +1,4 @@
-//Lab 3 menu screen
+// Final Lab 3
 import 'package:flutter/material.dart';
 
 void main() {
